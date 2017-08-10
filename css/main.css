@@ -1,0 +1,86 @@
+.project{
+    height: 100vh;
+    width: 100vw;
+    background-color : black;
+}
+  
+.panel{
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+.swiper-container{
+  height: 100vh
+}
+
+#test{
+  background-color: black
+}
+
+.cover{
+  position:absolute;
+  height:100vh;
+  width:100vw;
+  z-index: 10;
+  background-color:white;
+  opacity: .8;
+}
+
+.slide_descr{
+  margin-left: 15px;
+  margin-right: 15px
+}
+
+/* .swiper-pagination-v{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+} */
+/* .swiper-container-h .swiper-slide-active .swiper-container-v .swiper-slide-active{
+  opacity: 1 !important
+} */
+/* .swiper-pagination{
+  padding-bottom: 20px
+}
+ */
+/* *************************************************************************************** */
+
+/*.event1 .image {
+    top: 0%;
+    background: url(../img/stage2_section11_bg_blue.jpg);
+    background-size: cover;
+    background-position: center;         
+    background-repeat: no-repeat;
+}
+
+.event2 .image {
+    background: url(../img/stage2_section11_og.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+
+.image {
+  top: -100%;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+.pinWrapper {
+  height: 100%;
+  width: 100%;
+}
+
+.event {
+  position: relative;
+  overflow: hidden;
+  height: 676px;
+  width: 100vw;
+}
+
+.scrollmagic-pin-spacer {
+  position: absolute !important;
+  clip: rect(auto, auto, auto, auto);
+}*/
